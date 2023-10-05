@@ -21,10 +21,17 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
+```
+''' from http.server import HTTPServer,BaseHTTPRequestHandler
 
+content=''' <!doctype html>
+
+<title> My Web Server</title>
+```
 
 ## OUTPUT:
 
+![272778146-47a51ef7-69ac-4852-bb28-5a71616ec9af](https://github.com/kamalesh2509/simplewebserver/assets/120444689/a2e53ea3-4d21-49fb-b60c-3be3e1e0787f)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
