@@ -52,8 +52,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+![clientside](https://github.com/kamalesh2509/simplewebserver/assets/120444689/9930c62a-5fd1-4c09-ac1c-552af602ffe1)
 
-![272778146-47a51ef7-69ac-4852-bb28-5a71616ec9af](https://github.com/kamalesh2509/simplewebserver/assets/120444689/a2e53ea3-4d21-49fb-b60c-3be3e1e0787f)
+![serverside](https://github.com/kamalesh2509/simplewebserver/assets/120444689/95c7a2e6-de00-4ee6-ba18-b881b1c8a395)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
